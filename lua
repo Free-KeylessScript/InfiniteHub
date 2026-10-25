@@ -1,1 +1,1 @@
-mLTdhZGMtNDIxNS05Mjk5LTkzYzkxYzdlZjgzZSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1b
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/9ilrMc6V69/0"))()
